@@ -1,6 +1,6 @@
 #  LOGIN CON GMAIL USANDO IONIC & FIREBASE
 
-INTEGRANTES DE GRUPO  :woman::woman: :man ::man: :man:
+INTEGRANTES DE GRUPO  :woman::woman::man::man: :man:
 - Amoguimba Jessica
 - Gómez Samanta
 - Guaras Ahilton
