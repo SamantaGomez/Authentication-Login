@@ -23,6 +23,9 @@ Este README contiene un explicativo del la aplicación de login con Gmail la mis
 ### Comandos usados
 Ejecutaremos los siguientes comandos :
 ```
+- Revisar versiones 
+ionic info
+
 - Instalar ionic 
 npm install -g @ionic/cli
 
@@ -46,7 +49,7 @@ ionic cordova build android
 ```
 ## Credenciales 
 
-- Firebase
+
 ![myimage-alt-tag](https://github.com/SamantaGomez/Authentication-Login/blob/main/imagenes/credenciales.JPG)
 
 
